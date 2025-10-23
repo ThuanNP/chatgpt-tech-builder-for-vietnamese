@@ -14,10 +14,10 @@ plugins:
 
 # 📦 Cấu hình SEO (SEO meta tags)
 author:
-  name: "Anh Phước Thuận"
-  email: "contact@techbuilder.ai"
+  name: "Nguyễn Phước Thuận"
+  email: "thuannp.hcmc@gmail.com"
   github: "ThuanNP"
-  url: "https://thuanNP.github.io/chatgpt-tech-builder-for-vietnamese"
+  url: "https://thuannp.github.io/chatgpt-tech-builder-for-vietnamese/"
 
 # ⚙️ Cấu hình cho Minima Theme
 minima:
@@ -38,7 +38,7 @@ header_pages:
 
 # 🚀 Triển khai GitHub Pages
 baseurl: ""
-url: "https://thuanNP.github.io/chatgpt-tech-builder-for-vietnamese"
+url: "https://thuannp.github.io/chatgpt-tech-builder-for-vietnamese/"
 
 # 🔒 Bảo mật & dữ liệu
 exclude:
