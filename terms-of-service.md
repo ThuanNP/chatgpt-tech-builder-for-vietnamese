@@ -4,8 +4,6 @@ layout: page
 permalink: /terms-of-service/
 ---
 
-# ⚖️ Terms of Service - Điều khoản Sử dụng
-
 **Cập nhật lần cuối:** 23/10/2025  
 **Chủ sở hữu:** Nguyễn Phước Thuận  
 **Dự án:** Trợ lý Kỹ Thuật – Tech Builder for Vietnamese
