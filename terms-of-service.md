@@ -1,5 +1,5 @@
 ---
-title: Terms of Service – Trợ lý Kỹ Thuật – Tech Builder for Vietnamese
+title: Terms of Service
 layout: page
 permalink: /terms-of-service/
 ---
