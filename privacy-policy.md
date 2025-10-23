@@ -1,6 +1,7 @@
 ---
 title: Privacy Policy - Trợ lý Kỹ Thuật – Tech Builder for Vietnamese
 layout: page
+permalink: /privacy-policy/
 ---
 
 <!-- Dán nội dung Privacy Policy tại đây -->
