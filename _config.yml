@@ -21,9 +21,9 @@ minima:
     - platform: github
       user_url: "https://github.com/ThuanNP"
     - platform: linkedin
-      user_url: "https://www.linkedin.com/in/anhphuocthuan"
+      user_url: "https://www.linkedin.com/in/nguyenphuocthuan"
     - platform: globe
-      user_url: "https://techbuilder.ai"
+      user_url: "https://techbuilder.vn"
 
 # 🔗 Chỉ liệt kê TRANG CON cần hiện trên menu
 header_pages:
