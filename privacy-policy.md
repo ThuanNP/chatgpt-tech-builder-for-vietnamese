@@ -75,7 +75,7 @@ Phiên bản mới nhất sẽ luôn được công bố tại liên kết công
 
 ## 8. Liên hệ
 
-Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào liên quan đến quyền riêng tư tại **[📄 Chính sách này](https://thuanNP.github.io/chatgpt-tech-builder-for-vietnamese/privacy-policy)**, vui lòng liên hệ:
+Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào liên quan đến quyền riêng tư tại [Chính sách này](https://thuanNP.github.io/chatgpt-tech-builder-for-vietnamese/privacy-policy), vui lòng liên hệ:
 
 **📧 Email:** thuannp.hcmc@gmail.com.vn  
 **🌐 Website:** [https://techbuilder.vn](https://thuanNP.github.io/chatgpt-tech-builder-for-vietnamese/)  
