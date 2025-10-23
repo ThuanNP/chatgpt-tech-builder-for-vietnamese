@@ -1,6 +1,7 @@
 ---
 title: Trợ lý Kỹ Thuật – Tech Builder for Vietnamese
 layout: home
+permalink: /
 ---
 
 # 👋 Chào mừng đến với trang pháp lý của Trợ lý Kỹ Thuật – Tech Builder for Vietnamese
