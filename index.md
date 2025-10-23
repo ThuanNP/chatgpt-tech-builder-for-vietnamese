@@ -1,10 +1,10 @@
 ---
-title: Home
 layout: home
+title: "👋 Chào mừng đến với BuilderGPT"
 permalink: /
+nav_order: 1
+short_title: "Home"
 ---
-
-# 👋 Chào mừng đến với BuilderGPT 
 
 **BuilderGPT - Trợ lý Kỹ Thuật lập trình cho người Việt** là một GPT tùy chỉnh được thiết kế để hỗ trợ các lập trình viên và kỹ sư phần mềm Việt Nam phát triển dự án theo quy trình **SDLC (Software Development Life Cycle)** hiện đại một cách tự động và dễ dàng.
 
@@ -31,7 +31,7 @@ Trợ lý này được phát triển nhằm giúp đội ngũ kỹ sư:
 - Tối ưu năng suất trong quá trình phát triển ứng dụng thực tế.
 
 > Phiên bản hiện tại: **v1.0 – 2025.10.23**  
-> Tác giả: **Anh Phước Thuận**
+> Tác giả: **Nguyễn Phước Thuận**
 
 ---
 
