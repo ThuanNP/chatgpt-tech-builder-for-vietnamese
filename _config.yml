@@ -15,7 +15,7 @@ plugins:
 #   github: "ThuanNP"
 #   url: "https://thuannp.github.io/chatgpt-tech-builder-for-vietnamese"
 
-author: "BuilderGPT © Nguyễn Phước Thuận"
+author: "© Nguyễn Phước Thuận"
 
 minima:
   skin: auto
