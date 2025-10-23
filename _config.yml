@@ -27,6 +27,7 @@ minima:
 
 # 🔗 Chỉ liệt kê TRANG CON cần hiện trên menu
 header_pages:
+  - index.md
   - privacy-policy.md
   - terms-of-service.md
 
