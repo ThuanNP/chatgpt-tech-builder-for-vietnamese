@@ -33,7 +33,7 @@ minima:
 # 🔗 Điều hướng trang (Navigation)
 header_pages:
   - index.md
-  - privacy-policy-vn-tech-builder.md
+  - privacy-policy.md
   - terms-of-service.md
 
 # 🚀 Triển khai GitHub Pages
