@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "👋 Chào mừng đến với BuilderGPT"
+title: ""
 permalink: /
 nav_order: 1
 short_title: "Home"
