@@ -37,6 +37,6 @@ Trợ lý này được phát triển nhằm giúp đội ngũ kỹ sư:
 
 ## 📩 Liên hệ
 
-- **Email:** [contact@techbuilder.ai](mailto:thuannp.hcmpc@gmail.com)  
+- **Email:** [thuannp.hcmpc@gmail.com](mailto:thuannp.hcmpc@gmail.com)  
 - **Website:** [https://techbuilder.vn](https://techbuilder.vn)  
 - **GitHub:** [https://github.com/ThuanNP](https://github.com/ThuanNP)
