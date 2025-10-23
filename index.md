@@ -17,7 +17,7 @@ Công cụ tích hợp các phương pháp:
 
 ## 📜 Các trang chính thức
 
-- [🔒 Chính sách Quyền riêng tư (Privacy Policy)](https://thuanNP.github.io/chatgpt-tech-builder-for-vietnamese/privacy-policy-vn-tech-builder)
+- [🔒 Chính sách Quyền riêng tư (Privacy Policy)](https://thuanNP.github.io/chatgpt-tech-builder-for-vietnamese/privacy-policy)
 - [⚖️ Điều khoản Sử dụng (Terms of Service)](https://thuanNP.github.io/chatgpt-tech-builder-for-vietnamese/terms-of-service)
 
 ---
