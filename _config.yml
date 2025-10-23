@@ -2,7 +2,7 @@
 # GitHub Pages Configuration
 # ==========================
 title: "BuilderGPT"
-description: "Trang Chính sách Quyền riêng tư và Điều khoản sử dụng cho GPT tùy chỉnh BuilderGPT - Trợ lý Kỹ Thuật lập trình cho các kỹ sư Việt Nam hỗ trợ triển phần mềm hiện đại."
+description: "Trang Chính sách Quyền riêng tư và Điều khoản sử dụng cho GPT tùy chỉnh BuilderGPT - Trợ lý Kỹ Thuật lập trình cho các kỹ sư Việt Nam hỗ trợ triển phần mềm theo quy trình hiện đại."
 
 theme: minima
 markdown: kramdown
