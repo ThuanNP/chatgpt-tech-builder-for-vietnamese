@@ -1,9 +1,10 @@
 ---
-title: Privacy Policy – Trợ lý Kỹ Thuật – Tech Builder for Vietnamese
+title: Trợ lý Kỹ Thuật – Tech Builder for Vietnamese
 layout: page
 ---
 
 <!-- Dán nội dung Privacy Policy tại đây -->
+# Privacy Policy – Trợ lý Kỹ Thuật – Tech Builder for Vietnamese
 
 **Cập nhật:** 2025-10-23  
 **Chủ sở hữu:** Nguyễn Phước Thuận  
