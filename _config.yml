@@ -1,46 +1,39 @@
 # ==========================
 # GitHub Pages Configuration
 # ==========================
-
-# 🏷️ Thông tin chung
 title: "Trợ lý Kỹ Thuật – Tech Builder for Vietnamese"
 description: "Trang Chính sách Quyền riêng tư và Điều khoản sử dụng cho GPT tùy chỉnh – hỗ trợ phát triển phần mềm toàn diện theo SDLC, Clean Architecture, TDD/BDD."
 
-# 📚 Cấu hình hiển thị
 theme: minima
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
 
-# 📦 Cấu hình SEO (SEO meta tags)
 author:
   name: "Nguyễn Phước Thuận"
   email: "thuannp.hcmc@gmail.com"
   github: "ThuanNP"
-  url: "https://thuannp.github.io/chatgpt-tech-builder-for-vietnamese/"
+  url: "https://thuannp.github.io/chatgpt-tech-builder-for-vietnamese"
 
-# ⚙️ Cấu hình cho Minima Theme
 minima:
   skin: auto
   social_links:
     - platform: github
       user_url: "https://github.com/ThuanNP"
     - platform: linkedin
-      user_url: "https://www.linkedin.com/in/nguyenphuocthuan"
+      user_url: "https://www.linkedin.com/in/anhphuocthuan"
     - platform: globe
       user_url: "https://techbuilder.ai"
 
-# 🔗 Điều hướng trang (Navigation)
+# 🔗 Chỉ liệt kê TRANG CON cần hiện trên menu
 header_pages:
-  - index.md
   - privacy-policy.md
   - terms-of-service.md
 
-# 🚀 Triển khai GitHub Pages
-baseurl: ""
-url: "https://thuannp.github.io/chatgpt-tech-builder-for-vietnamese/"
+# 🚀 Project Pages: cấu hình ĐÚNG cho URL
+url: "https://thuannp.github.io"
+baseurl: "/chatgpt-tech-builder-for-vietnamese"
 
-# 🔒 Bảo mật & dữ liệu
 exclude:
   - README.md
   - LICENSE
