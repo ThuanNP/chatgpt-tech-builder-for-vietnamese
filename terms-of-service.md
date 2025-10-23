@@ -6,13 +6,13 @@ permalink: /terms-of-service/
 
 **Cập nhật lần cuối:** 23/10/2025  
 **Chủ sở hữu:** Nguyễn Phước Thuận  
-**Dự án:** Trợ lý Kỹ Thuật – Tech Builder for Vietnamese
+**Dự án:** BuilderGPT - Trợ lý Kỹ Thuật lập trình cho người Việt
 
 ---
 
 ## 1. Mục đích sử dụng
 
-Trợ lý Kỹ Thuật – Tech Builder for Vietnamese được phát triển để hỗ trợ quy trình phát triển phần mềm theo mô hình SDLC, giúp người dùng tạo tài liệu kỹ thuật, biểu đồ UML, kế hoạch kiểm thử, và kiến trúc hệ thống.
+BuilderGPT - Trợ lý Kỹ Thuật lập trình cho người Việt được phát triển để hỗ trợ quy trình phát triển phần mềm theo mô hình SDLC, giúp người dùng tạo tài liệu kỹ thuật, biểu đồ UML, kế hoạch kiểm thử, và kiến trúc hệ thống.
 
 Người dùng cam kết:
 - Chỉ sử dụng công cụ cho mục đích học tập, nghiên cứu, hoặc phát triển phần mềm hợp pháp.  
@@ -64,4 +64,4 @@ Mọi thắc mắc hoặc yêu cầu liên quan đến Điều khoản Sử dụ
 
 ---
 
-*Trợ lý Kỹ Thuật – Tech Builder for Vietnamese cam kết hoạt động minh bạch, tôn trọng quyền riêng tư và hỗ trợ cộng đồng phát triển phần mềm Việt Nam.*
+*BuilderGPT - Trợ lý Kỹ Thuật lập trình cho người Việt cam kết hoạt động minh bạch, tôn trọng quyền riêng tư và hỗ trợ cộng đồng phát triển phần mềm Việt Nam.*
