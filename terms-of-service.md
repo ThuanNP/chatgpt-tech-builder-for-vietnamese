@@ -3,7 +3,7 @@ title: Terms of Service – Trợ lý Kỹ Thuật – Tech Builder for Vietname
 layout: page
 ---
 
-# ⚖️ Điều khoản Sử dụng – Trợ lý Kỹ Thuật – Tech Builder for Vietnamese
+# ⚖️ Terms of Service - Điều khoản Sử dụng
 
 **Cập nhật lần cuối:** 23/10/2025  
 **Chủ sở hữu:** Nguyễn Phước Thuận  
