@@ -61,7 +61,7 @@ Việc tiếp tục sử dụng dịch vụ đồng nghĩa với việc người
 Mọi thắc mắc hoặc yêu cầu liên quan đến Điều khoản Sử dụng vui lòng liên hệ:
 
 📧 **Email:** [contact@techbuilder.ai](mailto:thuannp.hcmc@gmail.com)  
-🌐 **Website:** [https://techbuilder.ai](https://techbuilder.vn)
+🌐 **Website:** [https://techbuilder.ai](https://thuanNP.github.io/chatgpt-tech-builder-for-vietnamese)
 
 ---
 
