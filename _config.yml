@@ -2,7 +2,7 @@
 # GitHub Pages Configuration
 # ==========================
 title: "BuilderGPT"
-description: "rợ lý Kỹ Thuật lập trình cho người Việt là một GPT tùy chỉnh được thiết kế để hỗ trợ các lập trình viên và kỹ sư phần mềm Việt Nam phát triển dự án theo quy trình hiện đại một cách tự động và dễ dàng hơn."
+description: "Trợ lý Kỹ Thuật lập trình cho người Việt là một GPT tùy chỉnh được thiết kế để hỗ trợ các lập trình viên và kỹ sư phần mềm Việt Nam phát triển dự án theo quy trình hiện đại một cách tự động và dễ dàng hơn."
 
 theme: minima
 markdown: kramdown
