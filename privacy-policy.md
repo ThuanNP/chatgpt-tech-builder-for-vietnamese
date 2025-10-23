@@ -61,14 +61,13 @@ Người dùng có quyền:
 
 ## 6. Cookie và theo dõi
 
-**BuilderGPT - Trợ lý Kỹ Thuật lập trình cho người Việt** **không sử dụng cookie hoặc công cụ theo dõi** của bên thứ ba.  
-Các tương tác diễn ra hoàn toàn trong phạm vi phiên ChatGPT của người dùng.
+**BuilderGPT - Trợ lý Kỹ Thuật lập trình cho người Việt** **không sử dụng cookie hoặc công cụ theo dõi** của bên thứ ba. Các tương tác diễn ra hoàn toàn trong phạm vi phiên ChatGPT của người dùng.
 
 ---
 
 ## 7. Thay đổi chính sách
 
-Chính sách này có thể được cập nhật định kỳ để phản ánh thay đổi trong công nghệ hoặc quy định pháp luật.  
+Chính sách này có thể được cập nhật định kỳ để phản ánh thay đổi trong công nghệ hoặc quy định pháp luật hiện hành.  
 Phiên bản mới nhất sẽ luôn được công bố tại liên kết công khai nơi người dùng truy cập tài liệu này.
 
 ---
