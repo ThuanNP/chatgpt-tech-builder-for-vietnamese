@@ -17,7 +17,7 @@ author:
   name: "Anh Phước Thuận"
   email: "contact@techbuilder.ai"
   github: "ThuanNP"
-  url: "https://thuanNP.github.io/privacy-techbuilder-vn"
+  url: "https://thuanNP.github.io/chatgpt-tech-builder-for-vietnamese"
 
 # ⚙️ Cấu hình cho Minima Theme
 minima:
@@ -34,11 +34,11 @@ minima:
 header_pages:
   - index.md
   - privacy-policy-vn-tech-builder.md
-  # - terms-of-service.md  # (Tuỳ chọn thêm sau)
+  - terms-of-service.md
 
 # 🚀 Triển khai GitHub Pages
 baseurl: ""
-url: "https://thuanNP.github.io/privacy-techbuilder-vn"
+url: "https://thuanNP.github.io/chatgpt-tech-builder-for-vietnamese"
 
 # 🔒 Bảo mật & dữ liệu
 exclude:
