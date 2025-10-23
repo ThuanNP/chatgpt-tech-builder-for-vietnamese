@@ -1,6 +1,7 @@
 ---
 title: Terms of Service – Trợ lý Kỹ Thuật – Tech Builder for Vietnamese
 layout: page
+permalink: /terms-of-service/
 ---
 
 # ⚖️ Terms of Service - Điều khoản Sử dụng
