@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Trang chủ"
+title: "Home"
 permalink: /
 nav_order: 1
 ---
