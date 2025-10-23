@@ -8,14 +8,14 @@ permalink: /privacy-policy/
 
 **Cập nhật:** 2025-10-23  
 **Chủ sở hữu:** Nguyễn Phước Thuận  
-**Dự án:** Trợ lý Kỹ Thuật – Tech Builder for Vietnamese  
+**Dự án:** BuilderGPT - Trợ lý Kỹ Thuật lập trình cho người Việt  
 **Mục đích:** Cung cấp công cụ hỗ trợ phát triển phần mềm toàn diện theo vòng đời SDLC bằng AI, được tối ưu cho người dùng Việt Nam.
 
 ---
 
 ## 1. Giới thiệu
 
-**Trợ lý Kỹ Thuật – Tech Builder for Vietnamese** là một GPT tùy chỉnh được thiết kế nhằm giúp người dùng tại Việt Nam phát triển, quản lý và tối ưu hóa quy trình phát triển phần mềm theo các phương pháp **Clean Architecture**, **TDD/BDD**, và **Design Patterns** hiện đại.  
+**BuilderGPT - Trợ lý Kỹ Thuật lập trình cho người Việt** là một GPT tùy chỉnh được thiết kế nhằm giúp người dùng tại Việt Nam phát triển, quản lý và tối ưu hóa quy trình phát triển phần mềm theo các phương pháp **Clean Architecture**, **TDD/BDD**, và **Design Patterns** hiện đại.  
 Chúng tôi cam kết bảo vệ quyền riêng tư và dữ liệu cá nhân của người dùng trong suốt quá trình sử dụng GPT này.
 
 ---
@@ -61,7 +61,7 @@ Người dùng có quyền:
 
 ## 6. Cookie và theo dõi
 
-**Trợ lý Kỹ Thuật – Tech Builder for Vietnamese** **không sử dụng cookie hoặc công cụ theo dõi** của bên thứ ba.  
+**BuilderGPT - Trợ lý Kỹ Thuật lập trình cho người Việt** **không sử dụng cookie hoặc công cụ theo dõi** của bên thứ ba.  
 Các tương tác diễn ra hoàn toàn trong phạm vi phiên ChatGPT của người dùng.
 
 ---
@@ -79,8 +79,8 @@ Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào liên quan đến q
 
 **📧 Email:** thuannp.hcmc@gmail.com.vn  
 **🌐 Website:** [https://techbuilder.vn](https://thuanNP.github.io/chatgpt-tech-builder-for-vietnamese/)  
-**📄 Chính sách này:** [Privacy Policy - Trợ lý Kỹ Thuật – Tech Builder for Vietnamese](https://thuanNP.github.io/chatgpt-tech-builder-for-vietnamese/privacy-policy) 
+**📄 Chính sách này:** [Privacy Policy - BuilderGPT - Trợ lý Kỹ Thuật lập trình cho người Việt](https://thuanNP.github.io/chatgpt-tech-builder-for-vietnamese/privacy-policy) 
 
 ---
 
-*Trợ lý Kỹ Thuật – Tech Builder for Vietnamese cam kết minh bạch, bảo mật và tôn trọng quyền riêng tư của người dùng trong mọi hoạt động.*
+*BuilderGPT - Trợ lý Kỹ Thuật lập trình cho người Việt cam kết minh bạch, bảo mật và tôn trọng quyền riêng tư của người dùng trong mọi hoạt động.*
