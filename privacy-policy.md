@@ -67,7 +67,7 @@ Người dùng có quyền:
 
 ## 7. Thay đổi chính sách
 
-Chính sách này có thể được cập nhật định kỳ để phản ánh thay đổi trong công nghệ hoặc quy định Pháp Luật hiện hành.  
+Chính sách này có thể được cập nhật định kỳ để phản ánh thay đổi trong công nghệ, chính sách của bên thứ ba (OpenAI, Anthropic, Google Gemini, ...) hoặc quy định Pháp Luật hiện hành mà không cần sự đồng ý hay cho phép bằng văn bản của người sử dụng.  
 Phiên bản mới nhất sẽ luôn được công bố tại liên kết công khai nơi người dùng truy cập tài liệu này.
 
 ---
