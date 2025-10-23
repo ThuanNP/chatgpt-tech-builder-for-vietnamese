@@ -10,10 +10,10 @@ plugins:
   - jekyll-seo-tag
 
 author:
-  name: "Nguyễn Phước Thuận"
-  email: "thuannp.hcmc@gmail.com"
-  github: "ThuanNP"
-  url: "https://thuannp.github.io/chatgpt-tech-builder-for-vietnamese"
+  - name: "Nguyễn Phước Thuận"
+  - email: "thuannp.hcmc@gmail.com"
+  - github: "ThuanNP"
+  - url: "https://thuannp.github.io/chatgpt-tech-builder-for-vietnamese"
 
 minima:
   skin: auto
