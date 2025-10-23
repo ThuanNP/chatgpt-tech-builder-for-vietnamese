@@ -1,12 +1,12 @@
 ---
-title: Trợ lý Kỹ Thuật – Tech Builder for Vietnamese
+title: Home
 layout: home
 permalink: /
 ---
 
-# 👋 Chào mừng đến với trang pháp lý của Trợ lý Kỹ Thuật – Tech Builder for Vietnamese
+# 👋 Chào mừng đến với BuilderGPT - Trợ lý Kỹ Thuật lập trình cho người Việt
 
-**Trợ lý Kỹ Thuật – Tech Builder for Vietnamese** là một GPT tùy chỉnh được thiết kế nhằm hỗ trợ các lập trình viên và kỹ sư phần mềm Việt Nam phát triển dự án theo quy trình **SDLC (Software Development Life Cycle)** hiện đại.
+**BuilderGPT** là một GPT tùy chỉnh được thiết kế nhằm hỗ trợ các lập trình viên và kỹ sư phần mềm Việt Nam phát triển dự án theo quy trình **SDLC (Software Development Life Cycle)** hiện đại.
 
 Công cụ tích hợp các phương pháp:
 - 🧩 **Clean Architecture**  
