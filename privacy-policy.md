@@ -1,5 +1,5 @@
 ---
-title: Trợ lý Kỹ Thuật – Tech Builder for Vietnamese
+title: Privacy Policy - Trợ lý Kỹ Thuật – Tech Builder for Vietnamese
 layout: page
 ---
 
