@@ -5,7 +5,6 @@ permalink: /privacy-policy/
 ---
 
 <!-- Dán nội dung Privacy Policy tại đây -->
-# Privacy Policy – Chính sách bảo mật & Quyền riêng tư
 
 **Cập nhật:** 2025-10-23  
 **Chủ sở hữu:** Nguyễn Phước Thuận  
