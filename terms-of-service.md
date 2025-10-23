@@ -57,7 +57,7 @@ Việc tiếp tục sử dụng dịch vụ đồng nghĩa với việc người
 
 ## 7. Liên hệ
 
-Mọi thắc mắc hoặc yêu cầu liên quan đến Điều khoản Sử dụng vui lòng liên hệ:
+Mọi thắc mắc hoặc yêu cầu liên quan đến [Điều khoản Sử dụng](https://thuannp.github.io/chatgpt-tech-builder-for-vietnamese/terms-of-service/) vui lòng liên hệ:
 
 📧 **Email:** [thuannp.hcmc@gmail.com](mailto:thuannp.hcmc@gmail.com)  
 🌐 **Website:** [https://techbuilder.vn](https://thuanNP.github.io/chatgpt-tech-builder-for-vietnamese)
